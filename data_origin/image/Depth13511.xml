@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Depth13511 type_id="opencv-matrix">
+  <rows>9</rows>
+  <cols>7</cols>
+  <dt>w</dt>
+  <data>
+    5132 5132 5132 5132 5210 5374 3178 4983 5056 5132 5132 0 0 0 4983
+    5056 5132 0 0 0 0 4983 5056 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+    0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</data></Depth13511>
+</opencv_storage>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Depth8576 type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>9</cols>
+  <dt>w</dt>
+  <data>
+    4089 0 0 0 0 0 0 0 5291 0 0 0 0 0 0 0 0 5291 0 0 0 0 0 0 5291 5291
+    5291 0 0 0 0 0 0 5210 5210 5291 0 0 0 0 0 0 5132 5132 5291</data></Depth8576>
+</opencv_storage>

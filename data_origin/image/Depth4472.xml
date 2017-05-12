@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Depth4472 type_id="opencv-matrix">
+  <rows>5</rows>
+  <cols>6</cols>
+  <dt>w</dt>
+  <data>
+    5056 5056 5132 5291 0 0 5056 5056 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3269
+    3269 0 0 0 0 0 3269</data></Depth4472>
+</opencv_storage>
